@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Aftab Madni
 
-# 💫 About Me:
+
 Hey there! I'm Aftab Madni, a dedicated programmer and <br> enthusiastic learner with a keen  interest in data structures, algorithms, and web development.<br> Eager to contribute my problem- solving skills and Creative thinking to real world projects.<br>
 
 

@@ -1,6 +1,5 @@
-<p align="center">
-  <h1>Hi there 👋, I'm Aftab Madni</h1>
-</p>
+## Hi there 👋, I'm Aftab Madni
+
 
 
 

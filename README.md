@@ -1,4 +1,5 @@
- ##                                                                                    Hi there 👋, I'm Aftab Madni
+ ##<h1 align="center">Hi there 👋, I'm Aftab Madni</h1>
+
 
 
 Hey there! I'm Aftab Madni, a dedicated programmer and <br> enthusiastic learner with a keen  interest in data structures, algorithms, and web development.<br> Eager to contribute my problem- solving skills and Creative thinking to real world projects.<br>

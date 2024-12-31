@@ -1,4 +1,7 @@
- ##<h1 align="center">Hi there 👋, I'm Aftab Madni</h1>
+<p align="center">
+  <h1>Hi there 👋, I'm Aftab Madni</h1>
+</p>
+
 
 
 

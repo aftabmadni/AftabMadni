@@ -1,10 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Aftab Madnii</h1>
+<h1 align="center">Hi there 👋, I'm Aftab Madni</h1>
 
 
 
 
 
-Hey there! I'm Aftab Madni, a dedicated programmer and <br> enthusiastic learner with a strong interest in data structures and algorithms, and web development.<br> Eager to contribute my problem- solving skills and Creative thinking to real world projects.<br>
+Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with a strong interest in data structures and algorithms, and web development. Eager to contribute my problem- solving skills and Creative thinking to real world projects.<br>
 
 
 ## 🌐 Socials:

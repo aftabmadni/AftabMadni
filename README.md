@@ -37,10 +37,10 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 ## 🎨🐍 Interactive Python GUI Applications  
 | 🏆 Project Name | 📝 Description |  
 | :-- | :-- |  
-| 🔑&nbsp;[SecurePass&nbsp;Vault](https://github.com/aftabmadni/password-manager) | A **smart password manager**  🔒. Store and retrieve your credentials securely with an intuitive GUI! 🛡️ |  
-| ⏳&nbsp;[FocusFlow&nbsp;Timer](https://github.com/aftabmadni/pomodoro-app) | A **Pomodoro-based productivity app** 🍅. Stay focused and manage your work cycles efficiently with customizable timers! 📅 |  
-| 📚&nbsp;[FlashLearn Pro](https://github.com/aftabmadni/flash-card) | A **flashcard learning app** 🧠. Boost your memory with spaced repetition and engaging study sessions! 🎓 |  
-| 🎯&nbsp;[BrainBoost Quiz](https://github.com/aftabmadni/quiz-app) | A **dynamic quiz application** 🎮. Challenge yourself with multiple-choice questions and track your progress in real time! 🏆 |  
+| 🔑&nbsp;[SecurePass&nbsp;Vault](https://github.com/AftabMadni/Password-Manager-GUI) | A **smart password manager**  🔒. Store and retrieve your credentials securely with an intuitive GUI! 🛡️ |  
+| ⏳&nbsp;[FocusFlow&nbsp;Timer](https://github.com/AftabMadni/Pomodoro-GUI-Application) | A **Pomodoro-based productivity app** 🍅. Stay focused and manage your work cycles efficiently with customizable timers! 📅 |  
+| 📚&nbsp;[FlashLearn Pro](https://github.com/AftabMadni/Flash-Card-GUI) | A **flashcard learning app** 🧠. Boost your memory with spaced repetition and engaging study sessions! 🎓 |  
+| 🎯&nbsp;[BrainBoost Quiz](https://github.com/AftabMadni/GUI-Quiz-App) | A **dynamic quiz application** 🎮. Challenge yourself with multiple-choice questions and track your progress in real time! 🏆 |  
 
 ## 🌐📡 Smart API-Powered Python Projects  
 | 🚀 Project Name | 📝 Description |  

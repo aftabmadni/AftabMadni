@@ -45,11 +45,11 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 ## 🌐📡 Smart API-Powered Python Projects  
 | 🚀 Project Name | 📝 Description |  
 | :-- | :-- |  
-| 🛰️&nbsp;[SpaceTracker:&nbsp;ISS&nbsp;Overhead&nbsp;Notifier](https://github.com/aftabmadni/iss-overhead-notifier) | A **real-time ISS tracker** 🚀. Get notified when the **International Space Station** is visible above your location using API data! 🌍 |  
-| 📈&nbsp;[TradePulse: Stock News&nbsp;Alerts](https://github.com/aftabmadni/stock-trading-alert) | A **stock market news alert system** 📊. Get instant updates on stock price changes and breaking financial news via APIs! 🔔 |  
-| 📊&nbsp;[HabitSync: Daily Progress Tracker](https://github.com/aftabmadni/habit-tracker) | A **habit-tracking app** 📅. Log your daily progress with API requests and visualize your streaks effortlessly! ✅ |  
-| 🏋️&nbsp;[FitLog: Workout Tracker](https://github.com/aftabmadni/workout-tracker) | A **workout tracking system** 💪. Log your fitness activities directly into **Google Sheets** using API integration! 📑 |  
-| ✈️&nbsp;[FlightFinder:Cheapest Flight Deals](https://github.com/aftabmadni/flight-finder) | A **real-time flight deal finder** 🛫. Search for the **cheapest flights** worldwide with smart API queries! 💸 |  
+| 🛰️&nbsp;[SpaceTracker:&nbsp;ISS&nbsp;Overhead&nbsp;Notifier](https://github.com/AftabMadni/ISS-Overhead-Notifier) | A **real-time ISS tracker** 🚀. Get notified when the **International Space Station** is visible above your location using API data! 🌍 |  
+| 📈&nbsp;[TradePulse: Stock News&nbsp;Alerts](https://github.com/AftabMadni/Stock-Trading-New-Alert) | A **stock market news alert system** 📊. Get instant updates on stock price changes and breaking financial news via APIs! 🔔 |  
+| 📊&nbsp;[HabitSync: Daily Progress Tracker](https://github.com/AftabMadni/Habit-Tracker) | A **habit-tracking app** 📅. Log your daily progress with API requests and visualize your streaks effortlessly! ✅ |  
+| 🏋️&nbsp;[FitLog: Workout Tracker](https://github.com/AftabMadni/Workout-Tracking) | A **workout tracking system** 💪. Log your fitness activities directly into **Google Sheets** using API integration! 📑 |  
+| ✈️&nbsp;[FlightFinder:Cheapest Flight Deals](https://github.com/AftabMadni/Cheapest-Flight-Search) | A **real-time flight deal finder** 🛫. Search for the **cheapest flights** worldwide with smart API queries! 💸 |  
 
 ## 🤖🔗 Smart Automation & Bot Projects  
 | 🤖 Project Name | 📝 Description |  

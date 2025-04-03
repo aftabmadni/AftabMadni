@@ -32,7 +32,7 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 | :-- | :-- |
 | 🐍&nbsp;[Snake Game](https://github.com/aftabmadni/snake-game) | A **classic Snake game** built using Python's Turtle module. Eat the food, grow longer, and avoid crashing into yourself! 🎮 |
 | 🏓&nbsp;[Pong Game](https://github.com/aftabmadni/pong-game) | A **two-player Pong game** made with Python's Turtle module. Compete against a friend in this retro arcade experience! 🕹️ |
-| 🚦&nbsp;[Turtle&nbsp;Crossing](https://github.com/aftabmadni/turtle-crossing) | Help the turtle **safely cross the road** while dodging moving cars in this fun and challenging game! 🐢🚗 |
+| 🚦&nbsp;[Turtle&nbsp;Crossing](https://github.com/AftabMadni/Turtle-Crossing-Game) | Help the turtle **safely cross the road** while dodging moving cars in this fun and challenging game! 🐢🚗 |
 
 ## 🎨🐍 Interactive Python GUI Applications  
 | 🏆 Project Name | 📝 Description |  

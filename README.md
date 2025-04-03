@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Aftab Madni
+<h1 align="center">Hey there! I'm Aftab Madni</h1>
 
 
 

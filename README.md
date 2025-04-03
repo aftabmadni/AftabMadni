@@ -69,9 +69,9 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 | 🍽️&nbsp;[Tomato: A Zomato Clone](https://github.com/aftabmadni/tomato-clone) | A **full-stack restaurant discovery platform** 🍕 where users can browse restaurants, read reviews, and place orders. Powered by **React & Node.js**. 🍔 |  
 | 🏡&nbsp;[HomeNest: Real Estate Platform](https://github.com/aftabmadni/real-estate) | A **real estate listing website** 🏠 that connects buyers & sellers, featuring interactive maps & filters. Built with **Django & PostgreSQL**. 📊 |  
 
-## 📊🤖 Data Science Portfolio: Unlocking Insights with AI & Analytics  
+## 📊🤖 Data Science Portfolio: Unlocking Insights with  Analytics  
 
-| 📚 **Project Name** | 📝 ** Description** |  
+| 📚 **Project Name** | 📝 Description |  
 | :-- | :-- |  
 | 💰&nbsp;[**Smart Career Choices: Salary vs. College Majors**](https://github.com/yourusername/salary-majors-analysis) | A **data-driven deep dive** into **starting & mid-career salaries** across majors. Identify **high-paying & stable careers** using **Pandas & NumPy**. 📊💼 |  
 | 📈&nbsp;[**Code Wars: The Rise & Fall of Programming Languages**](https://github.com/yourusername/programming-trends) | Analyzing **Stack Overflow trends** to reveal the **most in-demand programming languages** over time. Powered by **SQL, Pandas & Matplotlib**. 🚀📊 |  

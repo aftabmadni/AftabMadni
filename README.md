@@ -33,6 +33,7 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 | 🐍&nbsp;[Snake Game](https://github.com/aftabmadni/snake-game) | A **classic Snake game** built using Python's Turtle module. Eat the food, grow longer, and avoid crashing into yourself! 🎮 |
 | 🏓&nbsp;[Pong Game](https://github.com/aftabmadni/pong-game) | A **two-player Pong game** made with Python's Turtle module. Compete against a friend in this retro arcade experience! 🕹️ |
 | 🚦&nbsp;[Turtle&nbsp;Crossing](https://github.com/AftabMadni/Turtle-Crossing-Game) | Help the turtle **safely cross the road** while dodging moving cars in this fun and challenging game! 🐢🚗 |
+| 🧩&nbsp;[Riddle Rescuer](https://github.com/AftabMadni/Riddle-Rescuer) | A **thrilling puzzle adventure** where you solve **riddles and make life-saving choices** to rescue your kidnapped friend! Guess the right password before time runs out! ⏳🔑🚪 |
 
 ## 🎨🐍 Interactive Python GUI Applications  
 | 🏆 Project Name | 📝 Description |  
@@ -66,7 +67,7 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 | 🌟 Project Name | 📝 Description |  
 | :-- | :-- |  
 | ✍️&nbsp;[WriteSphere: Blog Website](https://github.com/AftabMadni/Blog-Website) | A **modern and responsive blogging platform** 📝 where users can create, edit, and share their thoughts. Built with **Flask & SQlite**. 📖 |  
-| 🍽️&nbsp;[Tomato: A Zomato Clone](https://github.com/aftabmadni/tomato-clone) | A **full-stack restaurant discovery platform** 🍕 where users can browse restaurants, read reviews, and place orders. Powered by **React & Node.js**. 🍔 |  
+| 🍽️&nbsp;[FoodDel](https://github.com/aftabmadni/tomato-clone) | A **full-stack restaurant discovery platform** 🍕 where users can browse restaurants, read reviews, and place orders. Powered by **React & Node.js**. 🍔 |  
 | 🏡&nbsp;[HomeNest: Real Estate Platform](https://github.com/aftabmadni/real-estate) | A **real estate listing website** 🏠 that connects buyers & sellers, featuring interactive maps & filters. Built with **React & Tailwind**. 📊 |  
 
 ## 📊🤖 Data Science Portfolio: Unlocking Insights with  Analytics  
@@ -76,12 +77,12 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 | 💰&nbsp;[**Smart Career Choices: Salary vs. College Majors**](https://github.com/AftabMadni/college-majors-vs-salary) | A **data-driven deep dive** into **starting & mid-career salaries** across majors. Identify **high-paying & stable careers** using **Pandas & NumPy**. 📊💼 |  
 | 📈&nbsp;[**Code Wars: The Rise & Fall of Programming Languages**](https://github.com/AftabMadni/Programming-Trend-Analysis) | Analyzing **Stack Overflow trends** to reveal the **most in-demand programming languages** over time. Powered by **Pandas & Matplotlib**. 🚀📊 |  
 | 🏆&nbsp;[**LEGO Universe: The Hidden Patterns in Brick Sets**](https://github.com/AftabMadni/Analyzing-LEGO-Dataset) | Exploring LEGO’s **most popular themes, set complexities & price trends** using **Python, Pandas & Matplotlib**. A treat for **data & LEGO lovers**! 🏗️🧱 |  
-| 🔍&nbsp;[**Google Trends & Market Insights: The Data Behind Big Moves**](https://github.com/yourusername/google-trends-analysis) | Connecting **Google Search trends** with real-world events like **Tesla stock spikes, Bitcoin price changes & unemployment trends**. Python-powered analytics! 📊📉 |  
-| 📱&nbsp;[**Decoding the Google Play Store: App Trends & Market Share**](https://github.com/yourusername/playstore-analysis) | A deep analysis of the **Android app ecosystem**—ratings, installs & pricing strategies—using **Python, Pandas & Plotly**. 📈📱 |  
-| 🚀&nbsp;[**Mastering NumPy: The Foundation of Data Science**](https://github.com/yourusername/numpy-fundamentals) | From **arrays to linear algebra**, this **NumPy deep dive** covers the core of numerical computing, complete with **visualizations & real-world examples**. 🔢📊 |  
-| 🎬&nbsp;[**Hollywood’s Big Gamble: Movie Budgets vs. Box Office Success**](https://github.com/yourusername/movie-analysis) | Do **bigger budgets mean bigger hits?** Analyzing **film financials** to uncover trends using **Pandas, Matplotlib & Seaborn**. 🎥💰 |  
-| 🏅&nbsp;[**Decoding the Nobel Prize: Trends, Bias & Hidden Insights**](https://github.com/yourusername/nobel-prize-analysis) | Analyzing **Nobel Prize winners** by country, field, and gender to reveal fascinating trends using **Plotly, Matplotlib & Seaborn**. 📊🏆 |  
-| 🧼&nbsp;[**The Handwashing Breakthrough: Data That Saved Lives**](https://github.com/yourusername/handwashing-analysis) | Using **t-tests & distributions**, this project revisits the **historical data behind handwashing**, a life-saving medical revolution. 🚑📊 |  
+| 🔍&nbsp;[**Google Trends & Market Insights: The Data Behind Big Moves**](https://github.com/AftabMadni/Google-Trends-Analysis) | Connecting **Google Search trends** with real-world events like **Tesla stock spikes, Bitcoin price changes & unemployment trends**. Python-powered analytics! 📊📉 |  
+| 📱&nbsp;[**Decoding the Google Play Store: App Trends & Market Share**](https://github.com/AftabMadni/Playstore-Analysis) | A deep analysis of the **Android app ecosystem**—ratings, installs & pricing strategies—using **Python, Pandas & Plotly**. 📈📱 |  
+| 🚀&nbsp;[**Mastering NumPy: The Foundation of Data Science**](https://github.com/AftabMadni/Numpy-Fundamentals) | From **arrays to linear algebra**, this **NumPy deep dive** covers the core of numerical computing, complete with **visualizations & real-world examples**. 🔢📊 |  
+| 🎬&nbsp;[**Hollywood’s Big Gamble: Movie Budgets vs. Box Office Success**](https://github.com/AftabMadni/Movie-Analysis) | Do **bigger budgets mean bigger hits?** Analyzing **film financials** to uncover trends using **Pandas, Matplotlib & Seaborn**. 🎥💰 |  
+| 🏅&nbsp;[**Decoding the Nobel Prize: Trends, Bias & Hidden Insights**](https://github.com/AftabMadni/Nobel-Price-Analysis) | Analyzing **Nobel Prize winners** by country, field, and gender to reveal fascinating trends using **Plotly, Matplotlib & Seaborn**. 📊🏆 |  
+| 🧼&nbsp;[**The Handwashing Breakthrough: Data That Saved Lives**](https://github.com/AftabMadni/Handwashing-Analysis) | Using **t-tests & distributions**, this project revisits the **historical data behind handwashing**, a life-saving medical revolution. 🚑📊 |  
 
 
 

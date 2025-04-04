@@ -60,7 +60,7 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 | 💼&nbsp;[AutoApply: LinkedIn Job Application Bot](https://github.com/AftabMadni/Job-Application-Bot) | A **LinkedIn job application automation bot** 💼. Apply for multiple jobs effortlessly using **Python and Selenium**! 📄 |  
 | ⚡&nbsp;[NetSpeed: Twitter Internet Complaint Bot](https://github.com/AftabMadni/Internet-Speed-Complaint-Bot) | An **automated Twitter bot** 📡 that tests your internet speed and tweets complaints to your ISP when speeds drop! 📢 |  
 | 📷&nbsp;[InstaGrow: Instagram Follower Bot](https://github.com/AftabMadni/Instagram-Follower-Bot) | **Automate Instagram interactions** 🤳. Like, follow, and engage with posts automatically to grow your reach! 📈 |  
-| 📑&nbsp;[AutoForm: Data Entry Automation](https://github.com/aftabmadni/data-entry-bot) | A **bot that automates data entry tasks** 📝, saving hours of manual work! Perfect for form-filling and repetitive tasks. 🔄 |  
+| 📑&nbsp;[AutoForm: Data Entry Automation](https://github.com/AftabMadni/Data-Entry-Bot) | A **bot that automates data entry tasks** 📝, saving hours of manual work! Perfect for form-filling and repetitive tasks. 🔄 |  
 
 ## 🌍💻 Dynamic Web Development Projects  
 | 🌟 Project Name | 📝 Description |  

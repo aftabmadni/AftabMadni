@@ -54,7 +54,7 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 ## 🤖🔗 Smart Automation & Bot Projects  
 | 🤖 Project Name | 📝 Description |  
 | :-- | :-- |  
-| 🎵&nbsp;[MusicTime Machine: Spotify Playlist Creator](https://github.com/aftabmadni/spotify-time-machine) | A **web-scraping-powered Spotify playlist generator** 🎶. Travel back in time and create playlists from historical Billboard charts! 📅 |  
+| 🎵&nbsp;[MusicTime Machine: Spotify Playlist Creator](https://github.com/AftabMadni/Spotify-Playlist-Creator) | A **web-scraping-powered Spotify playlist generator** 🎶. Travel back in time and create playlists from historical Billboard charts! 📅 |  
 | 🛒&nbsp;[PriceGuard: Amazon Price Tracker](https://github.com/aftabmadni/amazon-price-tracker) | **Track Amazon product prices** 📉 and receive alerts when prices drop! Built with **Selenium** and **web scraping**. 🛍️ |  
 | 🍪&nbsp;[Cookie Clicker Bot: Automated Game Bot](https://github.com/aftabmadni/cookie-clicker-bot) | An **automated Cookie Clicker bot** 🍪 using Selenium! Optimizes gameplay by **auto-clicking and purchasing upgrades**. 🚀 |  
 | 💼&nbsp;[AutoApply: LinkedIn Job Application Bot](https://github.com/aftabmadni/linkedin-job-bot) | A **LinkedIn job application automation bot** 💼. Apply for multiple jobs effortlessly using **Python and Selenium**! 📄 |  

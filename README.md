@@ -65,17 +65,17 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 ## 🌍💻 Dynamic Web Development Projects  
 | 🌟 Project Name | 📝 Description |  
 | :-- | :-- |  
-| ✍️&nbsp;[WriteSphere: Blog Website](https://github.com/aftabmadni/blog-website) | A **modern and responsive blogging platform** 📝 where users can create, edit, and share their thoughts. Built with **Flask & MongoDB**. 📖 |  
+| ✍️&nbsp;[WriteSphere: Blog Website](https://github.com/AftabMadni/Blog-Website) | A **modern and responsive blogging platform** 📝 where users can create, edit, and share their thoughts. Built with **Flask & SQlite**. 📖 |  
 | 🍽️&nbsp;[Tomato: A Zomato Clone](https://github.com/aftabmadni/tomato-clone) | A **full-stack restaurant discovery platform** 🍕 where users can browse restaurants, read reviews, and place orders. Powered by **React & Node.js**. 🍔 |  
-| 🏡&nbsp;[HomeNest: Real Estate Platform](https://github.com/aftabmadni/real-estate) | A **real estate listing website** 🏠 that connects buyers & sellers, featuring interactive maps & filters. Built with **Django & PostgreSQL**. 📊 |  
+| 🏡&nbsp;[HomeNest: Real Estate Platform](https://github.com/aftabmadni/real-estate) | A **real estate listing website** 🏠 that connects buyers & sellers, featuring interactive maps & filters. Built with **React & Tailwind**. 📊 |  
 
 ## 📊🤖 Data Science Portfolio: Unlocking Insights with  Analytics  
 
 | 📚 **Project Name** | 📝 Description |  
 | :-- | :-- |  
-| 💰&nbsp;[**Smart Career Choices: Salary vs. College Majors**](https://github.com/yourusername/salary-majors-analysis) | A **data-driven deep dive** into **starting & mid-career salaries** across majors. Identify **high-paying & stable careers** using **Pandas & NumPy**. 📊💼 |  
-| 📈&nbsp;[**Code Wars: The Rise & Fall of Programming Languages**](https://github.com/yourusername/programming-trends) | Analyzing **Stack Overflow trends** to reveal the **most in-demand programming languages** over time. Powered by **SQL, Pandas & Matplotlib**. 🚀📊 |  
-| 🏆&nbsp;[**LEGO Universe: The Hidden Patterns in Brick Sets**](https://github.com/yourusername/lego-data-analysis) | Exploring LEGO’s **most popular themes, set complexities & price trends** using **Python, Pandas & Matplotlib**. A treat for **data & LEGO lovers**! 🏗️🧱 |  
+| 💰&nbsp;[**Smart Career Choices: Salary vs. College Majors**](https://github.com/AftabMadni/college-majors-vs-salary) | A **data-driven deep dive** into **starting & mid-career salaries** across majors. Identify **high-paying & stable careers** using **Pandas & NumPy**. 📊💼 |  
+| 📈&nbsp;[**Code Wars: The Rise & Fall of Programming Languages**](https://github.com/AftabMadni/Programming-Trend-Analysis) | Analyzing **Stack Overflow trends** to reveal the **most in-demand programming languages** over time. Powered by **Pandas & Matplotlib**. 🚀📊 |  
+| 🏆&nbsp;[**LEGO Universe: The Hidden Patterns in Brick Sets**](https://github.com/AftabMadni/Analyzing-LEGO-Dataset) | Exploring LEGO’s **most popular themes, set complexities & price trends** using **Python, Pandas & Matplotlib**. A treat for **data & LEGO lovers**! 🏗️🧱 |  
 | 🔍&nbsp;[**Google Trends & Market Insights: The Data Behind Big Moves**](https://github.com/yourusername/google-trends-analysis) | Connecting **Google Search trends** with real-world events like **Tesla stock spikes, Bitcoin price changes & unemployment trends**. Python-powered analytics! 📊📉 |  
 | 📱&nbsp;[**Decoding the Google Play Store: App Trends & Market Share**](https://github.com/yourusername/playstore-analysis) | A deep analysis of the **Android app ecosystem**—ratings, installs & pricing strategies—using **Python, Pandas & Plotly**. 📈📱 |  
 | 🚀&nbsp;[**Mastering NumPy: The Foundation of Data Science**](https://github.com/yourusername/numpy-fundamentals) | From **arrays to linear algebra**, this **NumPy deep dive** covers the core of numerical computing, complete with **visualizations & real-world examples**. 🔢📊 |  

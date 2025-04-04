@@ -56,10 +56,10 @@ Hey there! I'm Aftab Madni, a dedicated programmer and enthusiastic learner with
 | :-- | :-- |  
 | 🎵&nbsp;[MusicTime Machine: Spotify Playlist Creator](https://github.com/AftabMadni/Spotify-Playlist-Creator) | A **web-scraping-powered Spotify playlist generator** 🎶. Travel back in time and create playlists from historical Billboard charts! 📅 |  
 | 🛒&nbsp;[PriceGuard: Amazon Price Tracker](https://github.com/aftabmadni/amazon-price-tracker) | **Track Amazon product prices** 📉 and receive alerts when prices drop! Built with **Selenium** and **web scraping**. 🛍️ |  
-| 🍪&nbsp;[Cookie Clicker Bot: Automated Game Bot](https://github.com/aftabmadni/cookie-clicker-bot) | An **automated Cookie Clicker bot** 🍪 using Selenium! Optimizes gameplay by **auto-clicking and purchasing upgrades**. 🚀 |  
-| 💼&nbsp;[AutoApply: LinkedIn Job Application Bot](https://github.com/aftabmadni/linkedin-job-bot) | A **LinkedIn job application automation bot** 💼. Apply for multiple jobs effortlessly using **Python and Selenium**! 📄 |  
-| ⚡&nbsp;[NetSpeed: Twitter Internet Complaint Bot](https://github.com/aftabmadni/internet-speed-bot) | An **automated Twitter bot** 📡 that tests your internet speed and tweets complaints to your ISP when speeds drop! 📢 |  
-| 📷&nbsp;[InstaGrow: Instagram Follower Bot](https://github.com/aftabmadni/instagram-follower-bot) | **Automate Instagram interactions** 🤳. Like, follow, and engage with posts automatically to grow your reach! 📈 |  
+| 🍪&nbsp;[Cookie Clicker Bot: Automated Game Bot](https://github.com/AftabMadni/Cookie-Clicker-Bot) | An **automated Cookie Clicker bot** 🍪 using Selenium! Optimizes gameplay by **auto-clicking and purchasing upgrades**. 🚀 |  
+| 💼&nbsp;[AutoApply: LinkedIn Job Application Bot](https://github.com/AftabMadni/Job-Application-Bot) | A **LinkedIn job application automation bot** 💼. Apply for multiple jobs effortlessly using **Python and Selenium**! 📄 |  
+| ⚡&nbsp;[NetSpeed: Twitter Internet Complaint Bot](https://github.com/AftabMadni/Internet-Speed-Complaint-Bot) | An **automated Twitter bot** 📡 that tests your internet speed and tweets complaints to your ISP when speeds drop! 📢 |  
+| 📷&nbsp;[InstaGrow: Instagram Follower Bot](https://github.com/AftabMadni/Instagram-Follower-Bot) | **Automate Instagram interactions** 🤳. Like, follow, and engage with posts automatically to grow your reach! 📈 |  
 | 📑&nbsp;[AutoForm: Data Entry Automation](https://github.com/aftabmadni/data-entry-bot) | A **bot that automates data entry tasks** 📝, saving hours of manual work! Perfect for form-filling and repetitive tasks. 🔄 |  
 
 ## 🌍💻 Dynamic Web Development Projects  

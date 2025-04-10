@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Asif Madni</h1>
+<h1 align="center">Hi there 👋, I'm Aftab Madni</h1>
 
-Hey there! I'm Asif Madni, a dedicated programmer and Python developer with a strong passion for data structures, algorithms, and web development. I strive to apply my problem-solving skills and creativity to real-world projects.<br>
+Hey there! I'm Aftab Madni, a dedicated programmer and Python developer with a strong passion for data structures, algorithms, and web development. I strive to apply my problem-solving skills and creativity to real-world projects.<br>
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifhussain.is22@bmsce.ac.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-asif-hussain-madni/) 

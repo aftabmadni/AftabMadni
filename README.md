@@ -3,7 +3,8 @@
 Hi, I'm Aftab Madni a dedicated C++ programmer, data science enthusiast, and Python developer with a strong passion for data structures, algorithms, and web development. I strive to apply my problem-solving skills and creativity to real-world projects.<br>
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedaftabahmed.cs23@rvce.edu.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-aftab-ahmed-madni/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedaftabahmed.cs23@rvce.edu.in) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-aftab-ahmed-madni/) [![LeetCode Stats](https://leetcard.jacoblin.cool/aftabmadni?theme=light&font=Baloo&ext=heatmap)](https://leetcode.com/u/aftabmadni/)
+
 
 ---
 

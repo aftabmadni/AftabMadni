@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Syed Asif Madni</h1>
+<h1 align="center">Hi there 👋, I'm Syed Asif Hussain Madni</h1>
 
 Hi, I'm Syed Asif Hussain Madni a dedicated Java programmer, data science enthusiast, and Python developer with a strong passion for data structures, algorithms, and web development. I strive to apply my problem-solving skills and creativity to real-world projects.<br>
 

@@ -63,11 +63,6 @@ Hi, I'm Syed Asif Hussain Madni a dedicated Java programmer, data science enthus
 | 📷&nbsp;[InstaGrow: Instagram Follower Bot](https://github.com/AftabMadni/Instagram-Follower-Bot) | **Automate Instagram interactions** 🤳. Like, follow, and engage with posts automatically to grow your reach! 📈 |  
 | 📑&nbsp;[AutoForm: Data Entry Automation](https://github.com/AftabMadni/Data-Entry-Bot) | A **bot that automates data entry tasks** 📝, saving hours of manual work! Perfect for form-filling and repetitive tasks. 🔄 |  
 
-## 🤖 Machine Learning Projects
-
-| 🌟 Project Name | 📝 Description |
-| :-- | :-- |
-| 🚦 [Adaptive Traffic Management System](https://github.com/aftabmadni/Adaptive-Traffic-Management-System) | A **smart adaptive traffic management system** powered by machine learning to optimize traffic flow in real-time. The system uses **YOLOv4** for vehicle detection and incorporates algorithms to dynamically adjust traffic light timings for enhanced traffic efficiency. |
 
 
  ## 🖥️ Backend Projects
@@ -82,9 +77,8 @@ Hi, I'm Syed Asif Hussain Madni a dedicated Java programmer, data science enthus
 
 | 🚀 Project Name | 📝 Description |
 | :-- | :-- |
-| 🍽️ [FoodDel](https://github.com/aftabmadni/tomato-clone) | A **restaurant discovery and food ordering platform** where users can explore eateries, read reviews, and place orders. Features include user authentication, interactive UI, and seamless navigation. |
-| 🏥 [HealthBooker](https://github.com/aftabmadni/HealthBooker) | A **healthcare appointment booking system** that allows users to browse doctors, manage profiles, and schedule appointments. Incorporates notifications, secure access, and administrative controls. |
-| 💊 [Pharmacy Management System](https://github.com/aftabmadni/Pharmacy-Management-System) | A **comprehensive pharmacy management solution** designed to streamline operations such as inventory tracking, sales processing, and customer management. Includes modules for order handling, stock monitoring, and reporting. |
+| 🏥 [HealthBooker](https://github.com/aftabmadni/Health-Booker) | A **healthcare appointment booking system** that allows users to browse doctors, manage profiles, and schedule appointments. Incorporates notifications, secure access, and administrative controls. |
+| 💊 [Pharmacy Management System](https://github.com/aftabmadni/Pharmacy-Managment-System) | A **comprehensive pharmacy management solution** designed to streamline operations such as inventory tracking, sales processing, and customer management. Includes modules for order handling, stock monitoring, and reporting. |
 | ✍️&nbsp;[WriteSphere: Blog Website](https://github.com/AftabMadni/Blog-Website) | A **modern and responsive blogging platform** 📝 where users can create, edit, and share their thoughts. Built with **Flask & SQlite**. 📖 | 
 
 
@@ -92,7 +86,7 @@ Hi, I'm Syed Asif Hussain Madni a dedicated Java programmer, data science enthus
 
 | 🌟 Project Name | 📝 Description |
 | :-- | :-- |
-| 🗒️ [Keeper App](https://github.com/aftabmadni/keeper-app) | A **minimal and elegant note-taking web app** inspired by Google Keep. Easily add, view, and delete your notes with a clean user interface. Features include live note preview and responsive layout. |
+| 🗒️ [Keeper App](https://github.com/aftabmadni/Keeper-App) | A **minimal and elegant note-taking web app** inspired by Google Keep. Easily add, view, and delete your notes with a clean user interface. Features include live note preview and responsive layout. |
 | 📊 [Algo Vision](https://github.com/aftabmadni/algo-vision) | An **algorithm visualization tool** that helps users understand complex algorithms through interactive visual representations. Built with React and Tailwind CSS for a seamless user experience. |
 
 ## 🎮 JavaScript Games
@@ -100,7 +94,7 @@ Hi, I'm Syed Asif Hussain Madni a dedicated Java programmer, data science enthus
 | 🌟 Project Name | 📝 Description |
 | :-- | :-- |
 | 🎵 [Simon Game](https://github.com/aftabmadni/Simon-Game) | A **classic memory game** where players replicate an increasingly complex sequence of tones and lights. Enhances memory skills through engaging gameplay. |
-| 🫧 [Bubble Game](https://github.com/aftabmadni/Bubble-Game) | An **interactive bubble-popping game** where players aim to pop bubbles matching target numbers within a time limit. Tests reflexes and accuracy. |
+| 🫧 [Bubble Game](https://github.com/aftabmadni/Bubble-Game-using-JS) | An **interactive bubble-popping game** where players aim to pop bubbles matching target numbers within a time limit. Tests reflexes and accuracy. |
 
 ## ✨ Animated Landing Pages
 

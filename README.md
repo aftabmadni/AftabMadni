@@ -63,12 +63,55 @@ Hi, I'm Syed Asif Hussain Madni a dedicated Java programmer, data science enthus
 | 📷&nbsp;[InstaGrow: Instagram Follower Bot](https://github.com/AftabMadni/Instagram-Follower-Bot) | **Automate Instagram interactions** 🤳. Like, follow, and engage with posts automatically to grow your reach! 📈 |  
 | 📑&nbsp;[AutoForm: Data Entry Automation](https://github.com/AftabMadni/Data-Entry-Bot) | A **bot that automates data entry tasks** 📝, saving hours of manual work! Perfect for form-filling and repetitive tasks. 🔄 |  
 
-## 🌍💻 Dynamic Web Development Projects  
-| 🌟 Project Name | 📝 Description |  
-| :-- | :-- |  
-| ✍️&nbsp;[WriteSphere: Blog Website](https://github.com/AftabMadni/Blog-Website) | A **modern and responsive blogging platform** 📝 where users can create, edit, and share their thoughts. Built with **Flask & SQlite**. 📖 |  
-| 🍽️&nbsp;[FoodDel](https://github.com/aftabmadni/tomato-clone) | A **full-stack restaurant discovery platform** 🍕 where users can browse restaurants, read reviews, and place orders. Powered by **React & Node.js**. 🍔 |  
-| 🏡&nbsp;[HomeNest: Real Estate Platform](https://github.com/aftabmadni/real-estate) | A **real estate listing website** 🏠 that connects buyers & sellers, featuring interactive maps & filters. Built with **React & Tailwind**. 📊 |  
+## 🤖 Machine Learning Projects
+
+| 🌟 Project Name | 📝 Description |
+| :-- | :-- |
+| 🚦 [Adaptive Traffic Management System](https://github.com/aftabmadni/Adaptive-Traffic-Management-System) | A **smart adaptive traffic management system** powered by machine learning to optimize traffic flow in real-time. The system uses **YOLOv4** for vehicle detection and incorporates algorithms to dynamically adjust traffic light timings for enhanced traffic efficiency. |
+
+
+ ## 🖥️ Backend Projects
+
+| 🌟 Project Name | 📝 Description |
+| :-- | :-- |
+| 🧩 [Scatch Backend Project](https://github.com/aftabmadni/Scatch-Backend-Project) | A **Node.js and Express.js application** providing RESTful APIs for the Scatch application. It handles user authentication, file uploads, and integrates with MongoDB for data storage. |
+| ♟️ [Chess Game](https://github.com/aftabmadni/Chess-Game) | A **Node.js and Express.js web application** allowing users to play chess with an interactive browser-based interface. Utilizes EJS for rendering and manages move validations and UI updates seamlessly. |
+
+
+## 🌐 MERN Stack Web Development Projects
+
+| 🚀 Project Name | 📝 Description |
+| :-- | :-- |
+| 🍽️ [FoodDel](https://github.com/aftabmadni/tomato-clone) | A **restaurant discovery and food ordering platform** where users can explore eateries, read reviews, and place orders. Features include user authentication, interactive UI, and seamless navigation. |
+| 🏥 [HealthBooker](https://github.com/aftabmadni/HealthBooker) | A **healthcare appointment booking system** that allows users to browse doctors, manage profiles, and schedule appointments. Incorporates notifications, secure access, and administrative controls. |
+| 💊 [Pharmacy Management System](https://github.com/aftabmadni/Pharmacy-Management-System) | A **comprehensive pharmacy management solution** designed to streamline operations such as inventory tracking, sales processing, and customer management. Includes modules for order handling, stock monitoring, and reporting. |
+| ✍️&nbsp;[WriteSphere: Blog Website](https://github.com/AftabMadni/Blog-Website) | A **modern and responsive blogging platform** 📝 where users can create, edit, and share their thoughts. Built with **Flask & SQlite**. 📖 | 
+
+
+## ⚛️ React.js Projects
+
+| 🌟 Project Name | 📝 Description |
+| :-- | :-- |
+| 🗒️ [Keeper App](https://github.com/aftabmadni/keeper-app) | A **minimal and elegant note-taking web app** inspired by Google Keep. Easily add, view, and delete your notes with a clean user interface. Features include live note preview and responsive layout. |
+| 📊 [Algo Vision](https://github.com/aftabmadni/algo-vision) | An **algorithm visualization tool** that helps users understand complex algorithms through interactive visual representations. Built with React and Tailwind CSS for a seamless user experience. |
+
+## 🎮 JavaScript Games
+
+| 🌟 Project Name | 📝 Description |
+| :-- | :-- |
+| 🎵 [Simon Game](https://github.com/aftabmadni/Simon-Game) | A **classic memory game** where players replicate an increasingly complex sequence of tones and lights. Enhances memory skills through engaging gameplay. |
+| 🫧 [Bubble Game](https://github.com/aftabmadni/Bubble-Game) | An **interactive bubble-popping game** where players aim to pop bubbles matching target numbers within a time limit. Tests reflexes and accuracy. |
+
+## ✨ Animated Landing Pages
+
+| 🌟 Project Name | 📝 Description |
+| :-- | :-- |
+| ⛳ [Sidcup Family Golf](https://github.com/aftabmadni/Sidcup-Family-Golf-Animated-Landing-Page) | A **3D animated website clone** of Sidcup Family Golf, featuring smooth scroll animations using GSAP and Locomotive Scroll, interactive UI elements, and a modern layout. |
+| 🔥 [Magma Landing Page](https://github.com/aftabmadni/Magma-Animated-Landing-Page) | A **static front-end clone** of the Magma website, utilizing GSAP animations and HTML5 Canvas effects to replicate the original site's dynamic design. |
+| 🍎 [Apple Vision Pro](https://github.com/aftabmadni/Apple-Vision-Pro-Animated-Landing-Page) | A **smooth and visually immersive clone** of Apple's Vision Pro landing page, built with GSAP and Locomotive Scroll, offering sleek animations without any frameworks. |
+| 🫧 [Gooey Effect Landing Page](https://github.com/aftabmadni/Animated-Landing-Page-with-Gooey-Effect) | An **animated landing page** featuring a gooey effect, smooth scrolling with Locomotive Scroll, scroll-based animations using GSAP ScrollTrigger, and 3D elements powered by Three.js. |
+| 🎨 [Duo Studio](https://github.com/aftabmadni/Duo-Studio-Animated-Landing-Page) | A **responsive animated landing page** inspired by Duo Studio, built with GSAP ScrollTrigger, Locomotive Scroll, and modern JavaScript, delivering a smooth scrolling and animation experience. |
+
 
 ## 📊🤖 Data Science Portfolio: Unlocking Insights with  Analytics  
 

@@ -151,6 +151,10 @@ Hi, I'm Syed Asif Hussain Madni a dedicated C++ programmer, data science enthusi
     <td>✍️&nbsp;<a href="https://github.com/AftabMadni/Blog-Website">WriteSphere: Blog Website</a></td>
     <td>A <strong>modern and responsive blogging platform</strong> 📝 where users can create, edit, and share their thoughts. Built with <strong>Flask & SQlite</strong>. 📖</td>
   </tr>
+  <tr>
+  <td>🤖&nbsp;<a href="https://github.com/aftabmadni/AI-Fitness-Planner-2">AI Fitness Planner</a></td>
+  <td>An <strong>AI-powered personalized fitness planner</strong> that tailors workout and diet plans based on user input. Built with <strong>Next.js, MongoDB, OpenAI API, and NextAuth</strong> for secure authentication and smart recommendations. 🧠🏋️‍♂️</td>
+</tr>
 </table>
 
 ## ⚛️ React.js Projects

@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋, I'm Syed Asif Hussain Madni</h1>
+<h1 align="center">Hi there 👋, I'm Syed Aftab Ahmed Madni</h1>
 
-Hi, I'm Syed Asif Hussain Madni a dedicated Java programmer, data science enthusiast, and Python developer with a strong passion for data structures, algorithms, and web development. I strive to apply my problem-solving skills and creativity to real-world projects.<br>
+Hi, I'm Syed Aftab Ahmed Madni a dedicated C++ programmer, data science enthusiast, and Python developer with a strong passion for data structures, algorithms, and web development. I strive to apply my problem-solving skills and creativity to real-world projects.<br>
 
 
 
 ## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asifmadni81972@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-asif-hussain-madni-a16449248/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aftabmadni7118@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-aftab-ahmed-madni/)
 
 ---
 
